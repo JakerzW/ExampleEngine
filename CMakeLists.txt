@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
-project(MYENGINE)
+project(MYSICKENGINE)
 
 add_executable(game
 	src/game/main.cpp
